@@ -1,2 +1,2 @@
 # WorkingNote
-bababbababab,record someting or show someting
+bababbababab,record or show someting
